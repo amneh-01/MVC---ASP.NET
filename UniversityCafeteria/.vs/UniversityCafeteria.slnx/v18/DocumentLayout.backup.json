@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|c:\\users\\user\\desktop\\mvc---asp.net\\universitycafeteria\\views\\cafeteria\\suppliers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|solutionrelative:views\\cafeteria\\suppliers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|c:\\users\\user\\desktop\\mvc---asp.net\\universitycafeteria\\views\\cafeteria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|solutionrelative:views\\cafeteria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|c:\\users\\user\\desktop\\mvc---asp.net\\universitycafeteria\\views\\cafeteria\\supplystatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|solutionrelative:views\\cafeteria\\supplystatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|c:\\users\\user\\desktop\\mvc---asp.net\\universitycafeteria\\views\\cafeteria\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|solutionrelative:views\\cafeteria\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|c:\\users\\user\\desktop\\mvc---asp.net\\universitycafeteria\\views\\shared\\_simplelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|solutionrelative:views\\shared\\_simplelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|c:\\users\\user\\desktop\\mvc---asp.net\\universitycafeteria\\views\\cafeteria\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|solutionrelative:views\\cafeteria\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|c:\\users\\user\\desktop\\mvc---asp.net\\universitycafeteria\\wwwroot\\css\\products.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|solutionrelative:wwwroot\\css\\products.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|c:\\users\\user\\desktop\\mvc---asp.net\\universitycafeteria\\views\\cafeteria\\suppliers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|solutionrelative:views\\cafeteria\\suppliers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|c:\\users\\user\\desktop\\mvc---asp.net\\universitycafeteria\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|solutionrelative:views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|c:\\users\\user\\desktop\\mvc---asp.net\\universitycafeteria\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|c:\\users\\user\\desktop\\mvc---asp.net\\universitycafeteria\\views\\cafeteria\\supplystatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|solutionrelative:views\\cafeteria\\supplystatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|c:\\users\\user\\desktop\\mvc---asp.net\\universitycafeteria\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|c:\\users\\user\\desktop\\mvc---asp.net\\universitycafeteria\\controllers\\cafeteriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|solutionrelative:controllers\\cafeteriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|c:\\users\\user\\desktop\\mvc---asp.net\\universitycafeteria\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|c:\\users\\user\\desktop\\mvc---asp.net\\universitycafeteria\\views\\cafeteria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|solutionrelative:views\\cafeteria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|c:\\users\\user\\desktop\\mvc---asp.net\\universitycafeteria\\wwwroot\\css\\products.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|solutionrelative:wwwroot\\css\\products.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|c:\\users\\user\\desktop\\mvc---asp.net\\universitycafeteria\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8074A7C-D4E7-A045-877B-1816AB5FA2A0}|UniversityCafeteria.csproj|c:\\users\\user\\desktop\\mvc---asp.net\\universitycafeteria\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -71,51 +71,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Suppliers.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\Cafeteria\\Suppliers.cshtml",
-              "RelativeDocumentMoniker": "Views\\Cafeteria\\Suppliers.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\Cafeteria\\Suppliers.cshtml",
-              "RelativeToolTip": "Views\\Cafeteria\\Suppliers.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-01T11:58:49.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SupplyStatus.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\Cafeteria\\SupplyStatus.cshtml",
-              "RelativeDocumentMoniker": "Views\\Cafeteria\\SupplyStatus.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\Cafeteria\\SupplyStatus.cshtml",
-              "RelativeToolTip": "Views\\Cafeteria\\SupplyStatus.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAF4AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-01T11:58:51.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_SimpleLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\Shared\\_SimpleLayout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_SimpleLayout.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\Shared\\_SimpleLayout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_SimpleLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-03T04:24:57.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Products.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\Cafeteria\\Products.cshtml",
               "RelativeDocumentMoniker": "Views\\Cafeteria\\Products.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\Cafeteria\\Products.cshtml",
               "RelativeToolTip": "Views\\Cafeteria\\Products.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-11-01T11:31:55.917Z",
               "EditorCaption": ""
@@ -123,58 +84,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\Cafeteria\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Cafeteria\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\Cafeteria\\Index.cshtml",
-              "RelativeToolTip": "Views\\Cafeteria\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Title": "_SimpleLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\Shared\\_SimpleLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_SimpleLayout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\Shared\\_SimpleLayout.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\_SimpleLayout.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-01T11:58:47.402Z",
+              "WhenOpened": "2026-11-03T04:24:57.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "products.css",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\wwwroot\\css\\products.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\products.css",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\wwwroot\\css\\products.css",
-              "RelativeToolTip": "wwwroot\\css\\products.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-11-03T06:11:11.226Z",
+              "DocumentIndex": 2,
+              "Title": "Suppliers.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\Cafeteria\\Suppliers.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cafeteria\\Suppliers.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\Cafeteria\\Suppliers.cshtml",
+              "RelativeToolTip": "Views\\Cafeteria\\Suppliers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-01T11:58:49.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "_MainLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\Shared\\_MainLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_MainLayout.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\Shared\\_MainLayout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_MainLayout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-11-03T04:22:12.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAABfAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "SupplyStatus.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\Cafeteria\\SupplyStatus.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cafeteria\\SupplyStatus.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\Cafeteria\\SupplyStatus.cshtml",
+              "RelativeToolTip": "Views\\Cafeteria\\SupplyStatus.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-02T08:38:19.382Z",
+              "WhenOpened": "2026-11-01T11:58:51.514Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-03T04:25:45.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CafeteriaController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Controllers\\CafeteriaController.cs",
               "RelativeDocumentMoniker": "Controllers\\CafeteriaController.cs",
@@ -187,16 +161,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\Cafeteria\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cafeteria\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\Cafeteria\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cafeteria\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-03T04:25:45.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-01T11:58:47.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "products.css",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\wwwroot\\css\\products.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\products.css",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\wwwroot\\css\\products.css",
+              "RelativeToolTip": "wwwroot\\css\\products.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-03T06:11:11.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC---ASP.NET\\UniversityCafeteria\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T08:38:19.382Z"
             },
             {
               "$type": "Document",
