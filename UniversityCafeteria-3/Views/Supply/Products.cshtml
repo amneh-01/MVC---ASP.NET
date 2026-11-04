@@ -11,7 +11,7 @@
 <p> @ViewData["data2"]</p>
 <p> @ViewData["data3"]</p>
 
-@foreach (var product in (List<string>)ViewData["Products"])
+@foreach (var product in (string[])ViewData["ProductList"])
 {
     <li>@product</li>
 }
