@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\TASK-5-11\\DatabaseFirst-TASK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C332589-8919-4803-C4ED-DE54661314BE}|DatabaseFirst-TASK.csproj|c:\\users\\user\\desktop\\task-5-11\\databasefirst-task\\models\\purchaseorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C332589-8919-4803-C4ED-DE54661314BE}|DatabaseFirst-TASK.csproj|solutionrelative:models\\purchaseorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C332589-8919-4803-C4ED-DE54661314BE}|DatabaseFirst-TASK.csproj|c:\\users\\user\\desktop\\task-5-11\\databasefirst-task\\models\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C332589-8919-4803-C4ED-DE54661314BE}|DatabaseFirst-TASK.csproj|solutionrelative:models\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C332589-8919-4803-C4ED-DE54661314BE}|DatabaseFirst-TASK.csproj|c:\\users\\user\\desktop\\task-5-11\\databasefirst-task\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C332589-8919-4803-C4ED-DE54661314BE}|DatabaseFirst-TASK.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C332589-8919-4803-C4ED-DE54661314BE}|DatabaseFirst-TASK.csproj|c:\\users\\user\\desktop\\task-5-11\\databasefirst-task\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C332589-8919-4803-C4ED-DE54661314BE}|DatabaseFirst-TASK.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C332589-8919-4803-C4ED-DE54661314BE}|DatabaseFirst-TASK.csproj|c:\\users\\user\\desktop\\task-5-11\\databasefirst-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C332589-8919-4803-C4ED-DE54661314BE}|DatabaseFirst-TASK.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C332589-8919-4803-C4ED-DE54661314BE}|DatabaseFirst-TASK.csproj|c:\\users\\user\\desktop\\task-5-11\\databasefirst-task\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C332589-8919-4803-C4ED-DE54661314BE}|DatabaseFirst-TASK.csproj|solutionrelative:models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C332589-8919-4803-C4ED-DE54661314BE}|DatabaseFirst-TASK.csproj|c:\\users\\user\\desktop\\task-5-11\\databasefirst-task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C332589-8919-4803-C4ED-DE54661314BE}|DatabaseFirst-TASK.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PurchaseOrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK-5-11\\DatabaseFirst-TASK\\Models\\PurchaseOrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\PurchaseOrderItem.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK-5-11\\DatabaseFirst-TASK\\Models\\PurchaseOrderItem.cs",
+              "RelativeToolTip": "Models\\PurchaseOrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T21:07:43.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PurchaseOrder.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK-5-11\\DatabaseFirst-TASK\\Models\\PurchaseOrder.cs",
+              "RelativeDocumentMoniker": "Models\\PurchaseOrder.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK-5-11\\DatabaseFirst-TASK\\Models\\PurchaseOrder.cs",
+              "RelativeToolTip": "Models\\PurchaseOrder.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T21:07:37.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK-5-11\\DatabaseFirst-TASK\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK-5-11\\DatabaseFirst-TASK\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T21:07:35.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK-5-11\\DatabaseFirst-TASK\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK-5-11\\DatabaseFirst-TASK\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T21:07:25.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK-5-11\\DatabaseFirst-TASK\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK-5-11\\DatabaseFirst-TASK\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T21:05:43.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK-5-11\\DatabaseFirst-TASK\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK-5-11\\DatabaseFirst-TASK\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "Models\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T21:04:19.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK-5-11\\DatabaseFirst-TASK\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK-5-11\\DatabaseFirst-TASK\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-06T21:03:11.113Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
