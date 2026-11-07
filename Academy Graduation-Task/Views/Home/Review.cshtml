@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "Review Request";
+    var selectedOffers = ViewBag.SelectedOffers as System.Collections.Generic.List<dynamic>;
+}
+
+<div class="container mt-4">
+    <h2 class="text-center text-success mb-4">Order Review & Final Costs</h2>
+
+    @if (TempData["Error"] != null)
+    {
+        <div class="alert alert-danger text-center">@TempData["Error"]</div>
+    }
+
+    <table class="table table-hover table-bordered shadow-sm">
+        <thead class="table-primary">
+            <tr>
+                <th>Category</th>
+                <th>Supplier Name</th>
+                <th>Offer Name</th>
+                <th>Quantity</th>
+                <th>Unit Price</th>
+                <th>Total Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (selectedOffers != null)
+            {
+                foreach (var item in selectedOffers)
+                {
+                    <tr>
+                        <td>@item.CategoryName</td>
+                        <td>@item.SupplierName</td>
+                        <td>@item.OfferName</td>
+                        <td>@item.Quantity</td>
+                        <td>@item.UnitPrice JD</td>
+                        <td><strong>@item.TotalPrice JD</strong></td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+
+    <div class="card p-4 mt-4 bg-light shadow-sm">
+        <h4>Cost Summary & Discounts:</h4>
+        <p class="fs-5">Subtotal: <strong>@ViewBag.SubTotal JD</strong></p>
+        <p class="fs-5">Applied Discount Percentage: <span class="badge bg-warning text-dark">@ViewBag.DiscountPercentage %</span></p>
+        <p class="fs-5">Discount Amount: <strong>@ViewBag.DiscountAmount JD</strong></p>
+        <hr />
+        <h3 class="text-danger">Final Total to Pay: @ViewBag.FinalTotal JD</h3>
+    </div>
+
+    <div class="mt-4 text-center">
+        <a href="@Url.Action("Index", "Home")" class="btn btn-primary">Edit Selections</a>
+    </div>
+</div>

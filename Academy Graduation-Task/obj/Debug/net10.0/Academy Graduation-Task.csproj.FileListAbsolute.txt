@@ -1,0 +1,99 @@
+C:\Users\user\Desktop\Academy Graduation-Task\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\user\Desktop\Academy Graduation-Task\bin\Debug\net10.0\appsettings.json
+C:\Users\user\Desktop\Academy Graduation-Task\bin\Debug\net10.0\Academy Graduation-Task.staticwebassets.runtime.json
+C:\Users\user\Desktop\Academy Graduation-Task\bin\Debug\net10.0\Academy Graduation-Task.staticwebassets.endpoints.json
+C:\Users\user\Desktop\Academy Graduation-Task\bin\Debug\net10.0\Academy Graduation-Task.exe
+C:\Users\user\Desktop\Academy Graduation-Task\bin\Debug\net10.0\Academy Graduation-Task.deps.json
+C:\Users\user\Desktop\Academy Graduation-Task\bin\Debug\net10.0\Academy Graduation-Task.runtimeconfig.json
+C:\Users\user\Desktop\Academy Graduation-Task\bin\Debug\net10.0\Academy Graduation-Task.dll
+C:\Users\user\Desktop\Academy Graduation-Task\bin\Debug\net10.0\Academy Graduation-Task.pdb
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\Academy Graduation-Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\Academy Graduation-Task.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\Academy Graduation-Task.AssemblyInfo.cs
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\Academy Graduation-Task.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\Academy Graduation-Task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\Academy Graduation-Task.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\Academy Graduation-Task.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\scopedcss\bundle\Academy Graduation-Task.styles.css
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\scopedcss\projectbundle\Academy Graduation-Task.bundle.scp.css
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\7we4xzcoap-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\6cpm9ki8xd-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\75z4lxbvwd-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\h8gxe0m0y1-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\bb32v0q59w-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\17h2cfiemb-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\cm5l95rjlt-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\i36ll4q1vr-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\4gohsorre2-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\m8z0wh6she-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\uw0b2jcpd5-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\j8uoofsjvy-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\y2kq9bxb8h-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\aegkclzbdi-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\s8d0nezs4w-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\aesruadejo-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\ppjrl3tqgz-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\hygzobs4d1-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\a6l5i7ck8n-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\84lwg2h3jy-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\zeiow4de97-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\4nduvi8ndb-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\hx9btwj5at-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\x7e1hast12-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\fa5nda5ct8-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\2bt5ph7tqq-{0}-06098lyss8-06098lyss8.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\x8octgj4ar-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\6uemkdizsh-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\335aurumw4-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\zndtbdeo4q-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\yoqrrxe5dq-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\3b8j0tyo90-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\0ncvy16uk2-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\4bcovxlqqg-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\arjf9lwloe-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\22mlp1ckxm-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\eo6kffgf9o-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\utownfbgi6-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\h4fjji5qyu-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\p5jfhduh7u-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\1jzsrynzv7-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\4xfhkyk9nx-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\5pppv6gti4-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\n42jhg84dr-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\n7b00f84zm-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\34bmpuytfq-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\k45bwppe8f-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\yqstaaium5-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\nkw7znyg9j-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\5icj0sf36n-{0}-356vix0kms-356vix0kms.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\3q8vmumi17-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\eovixo0ynn-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\8sfsi5tu7p-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\7wgyx1r357-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\11gv41rmon-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\m4b416yfjl-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\s3ddm4g3vq-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\jakd5gszzz-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\vjcdon2mo6-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\lx6fj9cw70-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\i863cgee2x-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\6rdhfrt3bn-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\lllla45qxv-{0}-7124cpmmqc-7124cpmmqc.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\compressed\tqza1t0ior-{0}-7124cpmmqc-7124cpmmqc.gz
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\Academy Graduation-Task.dll
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\refint\Academy Graduation-Task.dll
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\Academy Graduation-Task.pdb
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\Academy Graduation-Task.genruntimeconfig.cache
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\ref\Academy Graduation-Task.dll
+C:\Users\user\Desktop\Academy Graduation-Task\obj\Debug\net10.0\Academy .00AACE06.Up2Date
