@@ -1,0 +1,2 @@
+@model Supplier
+<h1>Delete Supplier</h1><p>Delete supplier <strong>@Model.Name</strong>?</p><form asp-action="Delete" method="post"><input asp-for="Id" type="hidden" /><button class="btn btn-danger">Delete</button> <a asp-action="Index">Cancel</a></form>
